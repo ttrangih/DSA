@@ -1,3 +1,7 @@
+//22521514
+//Name: Nguyen Thuy Trang
+//Lab2_homework question 1
+
 #include <iostream>
 #include <stack>
 #include <cmath> // For pow function
