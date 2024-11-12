@@ -1,0 +1,4 @@
+Algorithm,Size,Time
+Bubble Sort,100,0
+Bubble Sort,1000,0.0071348
+Bubble Sort,10000,0.578704
